@@ -1,5 +1,6 @@
-### Hi there 👋
+> ### 🌟Hi there~
 
+<a href="https://hb777.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <!--
 **HbMagpie/HbMagpie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
