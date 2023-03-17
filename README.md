@@ -1,4 +1,4 @@
-<h1 style="color:#FFFFFF;">🌟Hi there~</h1>
+<h1 style="color:#FFFFFF;">🌟Hi there!</h1>
 
 ✉️ Contact : shdwkd1459@naver.com<br>
 🌱 쑥쑥 자라고 있는 예비 개발자입니다.<br>
