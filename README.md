@@ -1,26 +1,15 @@
-<h1 style="color:#FFFFFF;">🌟Hi there!</h1>
+<h2>🌟Hi there!</h2>
 
-✉️ Contact : shdwkd1459@naver.com<br>
-🌱 쑥쑥 자라고 있는 예비 개발자입니다.<br>
-🕊️ 구구....<br>
+<span>✉️ Contact : shdwkd1459@naver.com</span><br>
+<span>🌱 쑥쑥 자라고 있는 예비 개발자입니다.</span><br>
+<span>🕊️ 까악....</span><br>
 
-<a href="https://hb777.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="https://hb777.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
+</a>
 
 ![HbMagpie's github stats'](https://github-readme-stats.vercel.app/api?username=HbMagpie&theme=github_dark&show_icons=true)
-<br><br>
+
 [![HbMagpie's github stats'](https://github-readme-stats.vercel.app/api/top-langs/?username=HbMagpie&theme=github_dark&show_icons=true&border_color=ffffff&title_color=5a9bfc&icon_color=5a9bfc&layout=compact)](https://github.com/HbMagpie)
 
-<!--
-**HbMagpie/HbMagpie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fpahs3242)](https://solved.ac/fpahs3242/)
